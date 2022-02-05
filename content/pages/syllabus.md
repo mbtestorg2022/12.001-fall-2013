@@ -35,11 +35,48 @@ Assessment
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Field Trip Report, Lab Reports, and Exercises | 60 |
-| Quizzes (4) | 35 |
-| Class Participation | 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field Trip Report, Lab Reports, and Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (4)
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The first quiz and the field trip exercise together count for one quiz. Reports will be evaluated on clarity of presentation as well as soundness of analysis. The "rock of the week" exercises distributed every Friday throughout the semester will be equivalent to one lab.
 
