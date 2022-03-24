@@ -54,7 +54,7 @@ LABS AND EXERCISES
 *   [Blank Chart for Igneous Rocks (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab2_igneous)
 *   [Blank Chart for Sedimentary Rocks (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab2-sero-hab)
 *   [Blank Chart for Metamorphic Rocks (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab2_mtamorph)
-    *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Information about Metamorphic Rocks (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab2-metaroin)
+    *   [Information about Metamorphic Rocks (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab2-metaroin)
 *   [Blank Chart for Unknown Rocks (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab2-unro-hab)
 
 
@@ -75,7 +75,7 @@ LABS AND EXERCISES
 11–12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 3: Geochronology (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab3-geochron)
+[Lab 3: Geochronology (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab3-geochron)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ Lab 5: Earthquakes
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exercise 4: Reading Geological Maps (PDF)]({{< baseurl >}}/resources/mit12_001f13_ex4_geolo_map)
+[Exercise 4: Reading Geological Maps (PDF)]({{< baseurl >}}/resources/mit12_001f13_ex4_geolo_map)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,8 +144,8 @@ Lab 5: Earthquakes
 
 [Lab 6: Geologic Mapping (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab6-gema-ins)
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Example Stratigraphic Column (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab6-exstraco)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Base Map (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab6-basemap)
+*   [Example Stratigraphic Column (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab6-exstraco)
+*   [Base Map (PDF)]({{< baseurl >}}/resources/mit12_001f13_lab6-basemap)
 
 
 {{< tdclose >}}

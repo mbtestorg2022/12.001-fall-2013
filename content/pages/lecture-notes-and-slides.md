@@ -46,7 +46,7 @@ Overview: Introduction to the Introduction of Geology
 [Lecture 1 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec1notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 1 Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit12_001f13_lecture1slides)
+[Lecture 1 Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit12_001f13_lecture1slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ Origin and Age of the Earth
 [Lecture 2 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec2notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit12_001f13_lecture2slides)
+[Lecture 2 Slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit12_001f13_lecture2slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Introduction to Minerals
 [Lecture 3 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec3notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 3 Slides (PDF - 2.3MB)]({{< baseurl >}}/resources/mit12_001f13_lec3slides)
+[Lecture 3 Slides (PDF - 2.3MB)]({{< baseurl >}}/resources/mit12_001f13_lec3slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ OJ
 Igneous Rocks
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 4 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec4notes)
+[Lecture 4 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec4notes)
 {{< tdclose >}}
 {{< tdopen >}}
 Slides are not available for this lecture.
@@ -136,7 +136,7 @@ Sedimentary Rocks
 [Lecture 6 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec6notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 6 Slides (PDF - 3.6MB)]({{< baseurl >}}/resources/mit12_001f13_lecture6slides)
+[Lecture 6 Slides (PDF - 3.6MB)]({{< baseurl >}}/resources/mit12_001f13_lecture6slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,10 +151,10 @@ OJ
 Rock Structure and Deformation
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 8 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec8notes)
+[Lecture 8 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec8notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 8 Slides (PDF - 4.2MB)]({{< baseurl >}}/resources/mit12_001f13_lec8slides)
+[Lecture 8 Slides (PDF - 4.2MB)]({{< baseurl >}}/resources/mit12_001f13_lec8slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +172,7 @@ Geologic Time: Relative versus Absolute Dating
 [Lecture 11 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec11notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Slides (PDF)]({{< baseurl >}}/resources/mit12_001f13_lecture11slides)
+[Lecture 11 Slides (PDF)]({{< baseurl >}}/resources/mit12_001f13_lecture11slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,10 +187,10 @@ OJ
 Volcanoes
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 12 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec12notes)
+[Lecture 12 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec12notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 12 Slides (PDF)]({{< baseurl >}}/resources/mit12_001f13_lecture12slides)
+[Lecture 12 Slides (PDF)]({{< baseurl >}}/resources/mit12_001f13_lecture12slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +208,7 @@ Plate Tectonics
 [Lecture 13-15 Notes (PDF - 1.1MB)]({{< baseurl >}}/resources/mit12_001f13_lec13-15notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 13-15 Slides (PDF - 9.7MB)]({{< baseurl >}}/resources/mit12_001f13_lec13-15slides)
+[Lecture 13-15 Slides (PDF - 9.7MB)]({{< baseurl >}}/resources/mit12_001f13_lec13-15slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +244,7 @@ Oceanic Crust Formation
 Notes are not available for this lecture.
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 18 Slides (PDF - 4.1MB)]({{< baseurl >}}/resources/mit12_001f13_lec18slides)
+[Lecture 18 Slides (PDF - 4.1MB)]({{< baseurl >}}/resources/mit12_001f13_lec18slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +262,7 @@ Earthquakes
 [Lecture 19 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec19notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19 Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit12_001f13_lec19slides)
+[Lecture 19 Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit12_001f13_lec19slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,10 +277,10 @@ TP
 Topography
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 21 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec21notes)
+[Lecture 21 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec21notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 21 Slides (PDF - 3.8MB)]({{< baseurl >}}/resources/mit12_001f13_lec21slides)
+[Lecture 21 Slides (PDF - 3.8MB)]({{< baseurl >}}/resources/mit12_001f13_lec21slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +334,7 @@ Rivers
 [Lecture 28 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec28notes)
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 28 Slides (PDF - 6.0MB)]({{< baseurl >}}/resources/mit12_001f13_lec28slides)
+[Lecture 28 Slides (PDF - 6.0MB)]({{< baseurl >}}/resources/mit12_001f13_lec28slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -349,10 +349,10 @@ TP
 Landslides and Debris Flows
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 31 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec31notes)
+[Lecture 31 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec31notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Lecture 31 Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit12_001f13_lec31slides)
+ [Lecture 31 Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit12_001f13_lec31slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +370,7 @@ Glaciers
 [Lecture 32 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec32notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 32 Slides (PDF - 5.9MB)]({{< baseurl >}}/resources/mit12_001f13_lec32slides)
+[Lecture 32 Slides (PDF - 5.9MB)]({{< baseurl >}}/resources/mit12_001f13_lec32slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -388,7 +388,7 @@ Climate through Geologic History
 [Lecture 33 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec33notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 33 Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit12_001f13_lec33slides)
+[Lecture 33 Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit12_001f13_lec33slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -406,7 +406,7 @@ Earth History and Geobiology
 [Lecture 34 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec34notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 34 Slides (PDF - 3.5MB)]({{< baseurl >}}/resources/mit12_001f13_lec34slides)
+[Lecture 34 Slides (PDF - 3.5MB)]({{< baseurl >}}/resources/mit12_001f13_lec34slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -442,7 +442,7 @@ Comparative Planetology
 [Lecture 36 Notes (PDF)]({{< baseurl >}}/resources/mit12_001f13_lec36notes)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 36 Slides (PDF - 4.9MB)]({{< baseurl >}}/resources/mit12_001f13_lec36slides)
+[Lecture 36 Slides (PDF - 4.9MB)]({{< baseurl >}}/resources/mit12_001f13_lec36slides)
 {{< tdclose >}}
 
 {{< trclose >}}
