@@ -4,6 +4,7 @@ description: This resource contains the information regarding a field trip to an
   plate tectonics structures in massachusetts and new york.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-001-introduction-to-geology-fall-2013/f828208d0d04e1f39c1bb31d6fbe5f2d_MIT12_001F14_Field_Trip.pdf
 file_type: application/pdf
+parent_uid: de36fe69-cf33-ddf2-38bc-3896d0ce9eff
 resourcetype: Document
 title: A Field Trip to Ancient Plate Tectonics Structures in Massachusetts and New
   York

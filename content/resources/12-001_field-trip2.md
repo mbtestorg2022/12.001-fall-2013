@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ef6931d2-c8e6-bc0b-8e9a-5572a78fe125
 resourcetype: Image
 title: 12-001_field-trip2.jpg
 uid: d3e67710-1855-61e2-980b-084bbe480735

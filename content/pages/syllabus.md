@@ -4,7 +4,7 @@ title: Syllabus
 uid: ce088e37-78d0-b7c9-c849-d4b38b029687
 ---
 
-![A U-shaped valley.](/courses/earth-atmospheric-and-planetary-sciences/12-001-introduction-to-geology-fall-2013/syllabus/Valle-de-Ordesa.jpg)
+{{< resource "4f199a18-bc4a-d7f0-f6e8-ffa79ece47e6" >}}
 
 The Ordesa Valley in the Spanish Pyrenees was carved by a glacier. (Photograph courtesy of Taylor Perron.)
 

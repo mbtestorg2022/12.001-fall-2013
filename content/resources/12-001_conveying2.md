@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a9c623ed-5ba5-9002-d8a7-cabe1d13ee9e
 resourcetype: Image
 title: 12-001_conveying2.jpg
 uid: 3f18dbaa-b90b-3de9-115b-20da487f29e8
